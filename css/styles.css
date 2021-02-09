@@ -1,0 +1,16 @@
+.jumbotron {
+  padding: 30px;
+  background: #fff;
+  color: white;
+  margin: 0; }
+
+h1, h2, h3 {
+  font-family: 'Balsamiq Sans', cursive;
+color: rgb(218, 137, 38);
+}
+
+
+#loginModal .modal-header {
+  background-color: #901CAD; }
+  #loginModal .modal-header h3 {
+    color: white; }
